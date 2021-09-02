@@ -1,0 +1,2 @@
+Para dar acceso a una persona a mi github
+https://docs.github.com/es/github/administering-a-repository/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository
